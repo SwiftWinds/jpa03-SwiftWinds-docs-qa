@@ -1,2 +1,2 @@
 # jpa03-SwiftWinds-docs
-Mateo's jpa03 Storyboard
+Mateo's Storybook QA for jpa03
